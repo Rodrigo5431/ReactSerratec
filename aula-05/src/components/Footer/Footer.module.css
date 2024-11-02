@@ -1,0 +1,11 @@
+footer{
+    background-color: black;
+    color: blue;
+    margin-top: 330px;
+    text-align: center;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
